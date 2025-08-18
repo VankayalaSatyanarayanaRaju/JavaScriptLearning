@@ -22,5 +22,12 @@ heap loo object
 
 
 
-
 */
+
+let myYoutubeName = "phani.com"
+let anothername = myYoutubeName
+anothername = "Phani"
+
+console.log(myYoutubeName);
+console.log(anothername);
+
